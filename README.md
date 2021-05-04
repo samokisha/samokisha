@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I am Anatoly Samokysha, .NET Core Fullstack Software Engineer living in Ukraine.
+
+- 🌱 I’m currently learning ASP.NET Core and Vue.js (Quasar)
+
+_Soon will be more interesting details here._
+
 <!--
 **samokisha/samokisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
